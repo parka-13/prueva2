@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-align: center;
+}
+h2{
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+p{
+    font-size: 40px;
+    text-align:center;
+}
+form{
+    font-size: 40px;
+    text-align:center;
+    
+}
+footer{
+    text-align: center;
+}
+body{
+    background-image: url(imagenes/imagen.8.jpg);
+    background-position: center, center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.fer{
+    padding: 15px 20px; 
+    border-radius: 5px;
+}
+.boton{
+    background-color: #66FF66;
+    border-radius: 5px;
+    padding: 20px 35px;
+    font-size: 20px;
+
+}
